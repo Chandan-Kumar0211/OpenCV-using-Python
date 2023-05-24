@@ -41,6 +41,7 @@ def getContours(img):
 
 
 
+
 img = cv2.imread(r"C:\Users\CHAND\PycharmProjects\OpenCV_Murtazas_Workshop\Resources\shapes.png")
 # print(img.shape)
 
